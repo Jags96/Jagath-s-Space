@@ -1,7 +1,7 @@
 ---
-title: "Portugese Irregular Verbs" 
+title: "What does into the Apartment Recommender" 
 date: 1997-01-01
-tags: ["Portugese","irregular verbs","philology"]
+tags: ["","irregular verbs","philology"]
 author: ["Moritz-Maria von Igelfeld"]
 description: "This book discusses Portugese irregular verbs in great details."
 summary: "This book discusses Portugese irregular verbs in great details."
@@ -68,10 +68,10 @@ Moritz-Maria von Igelfeld. 1997. *Portugese Irregular Verbs*. Regensburg, German
 
 ```BibTeX
 @book{I97,
-author = {Moritz-Maria von Igelfeld},
-year = {1997},
-title = {Portugese Irregular Verbs},
-publisher = {Regensburg University Press},
-address = {Regensburg, Germany},
+author = {Jagath Kumar Reddy Katama Reddy},
+year = {2024},
+title = {Apartment Recommender},
+publisher = {Jagath Kumar Reddy K},
+address = {Indianapolis, Indiana},
 url = {http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs}}
 ```
