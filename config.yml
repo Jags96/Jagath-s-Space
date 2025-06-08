@@ -12,21 +12,24 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
+        - name: Project_Res
+          url: papers/
           weight: 5 
         - name: Projects
           url: projects/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
+        # - name: Courses
+        #   url: courses/
+        #   weight: 3
         - name: Education
           url: education/
           weight: 4 
+        - name: Data
+          url: data/
+          weight: 6
         - name: Resume
           url: https://drive.google.com/file/d/1UiPajNJHVlt_IlEAX0sxGeGaonvqgQD3/view?usp=drive_link
-          weight: 6
+          weight: 7
 
 params:
     description: " • AI Applied Researcher • AI ML Algorithms Developer • C++ Inference Engineer • Cricketer • AI ML Engineer • Data Scientist"
@@ -37,14 +40,14 @@ params:
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
-    ShowReadingTime: false
+    ShowReadingTime: true
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["books","papers","data","education"] #,course
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -60,20 +63,20 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: Project_Res
               url: papers/
             - name: Data
               url: data/
             - name: Books
               url: books/
-            - name: Courses
-              url: courses/
+            # - name: Courses
+            #   url: courses/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
             - name: Resume
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: https://drive.google.com/file/d/1UiPajNJHVlt_IlEAX0sxGeGaonvqgQD3/view?usp=drive_link
 
     socialIcons:
         - name: CV
