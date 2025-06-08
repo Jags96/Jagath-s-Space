@@ -36,9 +36,9 @@ params:
     author: Jagath Kumar Reddy K
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: true
     disableSpecial1stPost: true
@@ -47,8 +47,8 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","papers","data","education"] #,course
-    ShowToc: false
+    MainSections: ["papers","data","projects","education"] #,"course","books",
+    ShowToc: true
     disableScrollToTop: true
     TocOpen: true
     ShowWordCount: false
@@ -65,22 +65,26 @@ params:
           buttons:
             - name: Project_Res
               url: papers/
+            - name: Projects
+              url: projects//
             - name: Data
               url: data/
-            - name: Books
-              url: books/
+            # - name: Books
+            #   url: books/
             # - name: Courses
             #   url: courses/
             - name: Tags
               url: tags/
-            - name: Archive
-              url: archive/
+            - name: Educations
+              url: education/
+            # - name: Archive
+            #   url: archive/
             - name: Resume
               url: https://drive.google.com/file/d/1UiPajNJHVlt_IlEAX0sxGeGaonvqgQD3/view?usp=drive_link
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: https://drive.google.com/file/d/1UiPajNJHVlt_IlEAX0sxGeGaonvqgQD3/view?usp=drive_link
         - name: Email
           url: mailto:jagathkumarreddykatamareddy@gmail.com
         # - name: Zoom
@@ -93,8 +97,8 @@ params:
         #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
           url: https://github.com/Jags96
-        # - name: Substack
-        #   url: https://pmichaillat.substack.com
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/jagathkrk/
         # - name: YouTube
         #   url: https://www.youtube.com/@pmichaillat
         # - name: Twitter
