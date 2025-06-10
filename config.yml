@@ -30,6 +30,8 @@ menu:
         - name: Resume
           url: https://drive.google.com/file/d/1UiPajNJHVlt_IlEAX0sxGeGaonvqgQD3/view?usp=drive_link
           weight: 7
+        - name: Tags
+          url: tags/
 
 params:
     description: " • AI Applied Researcher • AI ML Algorithms Developer • C++ Inference Engineer • Cricketer • AI ML Engineer • Data Scientist"
