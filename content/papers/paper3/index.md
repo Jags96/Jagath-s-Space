@@ -1,5 +1,5 @@
 ---
-title: "Python Code Generator - Small language Models" 
+title: "Python Code Generator - Large language Models" 
 date: 2021-04-06
 tags: ["GPT2","pytorch","transformers","Mistral","Qwen2.5", "gemma3", "continual pretraining", "finetuning"]
 author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
@@ -7,7 +7,7 @@ description: "This paper describes the inner hedgehog, a psychological condition
 summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
 cover:
     image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    alt: "Vizualisation of python code gen"
     relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
@@ -19,20 +19,26 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper3.pdf)
++ [Paper](report.pdf)
 + [Raw data](https://github.com/pmichaillat/michez-rule)
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+This project focuses on enhancing programmer productivity through Python code generation using
+lightweight Large Language Models (LLMs). The primary objective is to develop compact LLMs capable
+of running locally on personal hardware, thereby addressing privacy concerns associated with cloud-based
+solutions. Two approaches were explored: (1) building models from scratch via pretraining and subsequent fine-tuning, and (2) fine-tuning existing pre-trained models. A range of architectures, including
+GPT-2, Gemma 3, LLaMA 3.2, and Qwen 2.5 series, were evaluated for their effectiveness in code generation tasks. Experimental results indicate that the LLaMA 3.2 3B model consistently outperformed other
+candidates. This work demonstrates the viability of small, local LLMs as practical coding assistants,
+paving the way for privacy-preserving AI tools in software development.
 
 ---
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
+Sashank T, Jagath K, and Junaid Ahmad. 2025. "Python Code Generation using LLM"
 
 ```BibTeX
 @article{SZI21,
