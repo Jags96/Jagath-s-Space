@@ -2,7 +2,7 @@
 title: "Python Code Generator - Large language Models" 
 date: 2021-04-06
 tags: ["GPT2","pytorch","transformers","Mistral","Qwen2.5", "gemma3", "continual pretraining", "finetuning"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
+author: ["Jagath Kumar Reddy K"]
 description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
 summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
 cover:
