@@ -4,9 +4,9 @@ date: 2025-03-26
 tags: ["GPT2","pytorch","transformers","Mistral","Qwen2.5", "LLaMa","gemma3", "continual pretraining", "finetuning"]
 author: ["Jagath Kumar Reddy K"]
 description: "This paper describes the experimental setup, observation and analysis of Continual pretraining of GPT2 , finetuning of Gemma3 LLaMa 3.2 and Qwen 2.5 to produce a Python Code Generator" 
-summary: "" 
+summary: "This paper discusses the experimental results, observations and analysis of Continual pretraining of GPT2 , finetuning of Gemma3 LLaMa 3.2 and Qwen 2.5 to produce a Python Code Generator" 
 cover:
-    image: "paper3.png"
+    image: "cropped.gif"
     alt: "Vizualisation of python code gen"
     relative: true
 ---
