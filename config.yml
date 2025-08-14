@@ -12,16 +12,16 @@ taxonomies:
 
 menu:
     main:
-        - name: Project_Res
+        - name: Paper
           url: papers/
           weight: 5 
-        - name: Projects
+        - name: Project
           url: projects/
           weight: 2
         - name: Education
           url: education/
           weight: 4 
-        - name: Data
+        - name: Blog
           url: data/
           weight: 6
         - name: Resume
@@ -32,7 +32,7 @@ menu:
           weight: 7
 
 params:
-    description: " • AI Applied Researcher • AI ML Algorithms Developer • C++ Inference Engineer • Cricketer • AI ML Engineer • Data Scientist"
+    description: "• Applied AI Researcher • AI ML Algorithms Developer • C++ Inference Engineer • Data Scientist • AI ML Engineer • Cricketer"
     author: Jagath Kumar Reddy K
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -58,16 +58,17 @@ params:
     profileMode:
           enabled: true
           title: Jagath Kumar Reddy K
-          subtitle: "• AI Applied Researcher • AI ML Algorithms Developer • C++ Inference Engineer • Cricketer • AI ML Engineer • Data Scientist"
+          subtitle: "• Applied AI Researcher • AI ML Algorithms Developer • C++ Inference Engineer • Data Scientist • AI ML Engineer • Cricketer \n\n
+                      Deep passionated to Contribute to systems level engineering"
           imageUrl: "IMG_3834 3.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Project_Res
+            - name: Paper
               url: papers/
-            - name: Projects
+            - name: Project
               url: projects//
-            - name: Data
+            - name: Blog
               url: data/
             # - name: Books
             #   url: books/
@@ -75,7 +76,7 @@ params:
             #   url: courses/
             - name: Tags
               url: tags/
-            - name: Educations
+            - name: Education
               url: education/
             # - name: Archive
             #   url: archive/
@@ -83,14 +84,14 @@ params:
               url: https://drive.google.com/file/d/1UiPajNJHVlt_IlEAX0sxGeGaonvqgQD3/view?usp=drive_link
 
     socialIcons:
-        - name: CV
+        - name: Resume
           url: https://drive.google.com/file/d/1UiPajNJHVlt_IlEAX0sxGeGaonvqgQD3/view?usp=drive_link
         - name: Email
           url: mailto:jagathkumarreddykatamareddy@gmail.com
         # - name: Zoom
         #   url: https://www.zoom.us/my/igelfeld
-        # - name: Location
-        #   url: location/
+        - name: Portfolio
+          url: /
         # - name: Office Hours
         #   url: officehours/
         # - name: Google Scholar
@@ -105,7 +106,12 @@ params:
         #   url: https://x.com/pmichaillat
         # - name: Bluesky
         #   url: https://bsky.app/profile/pmichaillat.bsky.social
-
+        - name: LeetCode
+          url: https://leetcode.com/u/JAGATH_KUMAR_REDDY_K/
+        # - name: CodeForces
+          # url: /
+        - name: 
+          url: /
     assets:
         customCSS: ["css/custom.css"]
         disableScrollBarStyle: true
