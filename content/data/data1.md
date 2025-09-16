@@ -1,9 +1,9 @@
 ---
-title: "GPU Architecture - Beginner thoughts" 
+title: "Paper Review - Personal Notes" 
 date: 2025-06-06
 tags: ["GPU","CUDA","Computer Architecture","C++","Parallel Processing","French","Spanish","simulations","dataset","python"]
-author: ["Patrick Fitzcarron O'Leary","Florianus Prinzel","Walter Schoeffler-Henschell","Detlev Amadeus Unterholzer", "Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This dataset contains all irregular verbs in known Romance languages."
+author: ["Jagath Kumar Reddy K"]
+description: "This blog contains Paper Review Notes for future revision."
 summary: "This dataset contains all irregular verbs in known Romance languages."
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
@@ -15,7 +15,7 @@ disableAnchoredHeadings: false
 
 ## Overview
 
-This dataset contains all irregular verbs in [all known Romance languages](http://www.alexandermccallsmith.com/series/von-igelfeld-series)—including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This blog covers all the content of the following Paper in a biased perspective for Personal future reference.
 
 ---
 

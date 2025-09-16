@@ -74,3 +74,18 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+/* ===================== */
+/* 🧮 MathJax Overrides  */
+/* ===================== */
+
+mjx-container {
+    display: block !important;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0.5em 0;
+  }
+  
+  mjx-mtable {
+    display: table !important;
+  }
+  
