@@ -32,7 +32,7 @@ menu:
           weight: 7
 
 params:
-    description: "• Applied AI Researcher • AI ML Algorithms Developer • C++ Inference Engineer • Data Scientist • AI ML Engineer • Cricketer"
+    description: "• Applied AI Researcher • AI Algorithms Developer • C++ • Data Scientist • AI ML Engineer • Cricketer"
     author: Jagath Kumar Reddy K
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -58,8 +58,8 @@ params:
     profileMode:
           enabled: true
           title: Jagath Kumar Reddy K
-          subtitle: "• Applied AI Researcher • AI ML Algorithms Developer • C++ Inference Engineer • Data Scientist • AI ML Engineer • Cricketer \n\n
-                      Deep passionated to Contribute to systems level engineering"
+          subtitle: "• Applied AI Researcher • AI Algorithms Developer • C++ • Cricketer \n\n\n
+                      Deeply passionate to contribute to High performance AI workloads \n\n Love building without dependencies, and learning with dependencies \n\n  "
           imageUrl: "IMG_3834 3.jpg"
           imageWidth: 160
           imageHeight: 160
